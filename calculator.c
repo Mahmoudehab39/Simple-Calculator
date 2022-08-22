@@ -1,7 +1,5 @@
 #include<stdio.h>
 
-
-
 int main ()
 {
     int num1=0,num2=0,add=0,sub=0,mul=0,div=0,x=0;
@@ -14,7 +12,6 @@ int main ()
     sub=num1-num2;
     mul=num1*num2;
     div=num1/num2;
-
 
     printf("The addition is:%d\n",add);
     printf("The subtraction is:%d\n",sub);
